@@ -1,0 +1,1 @@
+# idiv-dividend-analysis
